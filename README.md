@@ -1,27 +1,11 @@
 # 👋 Hi, I'm Otito Ogene
 
-🎓 **Medical Laboratory Science Graduate** | 💻 **Health Tech & Data Enthusiast** | 🔧 **Automation & AI Builder**
+🎓 **Medical Laboratory Science Graduate** | 💻 **Software Engineer** |
 
 ---
 
 ## 👨‍💻 About Me
-I’m passionate about building solutions at the intersection of **Healthcare, Data, and Technology**. With a background in Medical Laboratory Science and growing expertise in:
-
-- **Healthcare Data Engineering**
-- **Clinical Data Analytics**
-- **Laboratory Information Systems (LIS/LIMS)**
-- **Process Automation (Python, Make, n8n)**
-
-I love building data and cloud systems also building lightweight automation tools for improved efficiency in healthcare and business workflows.
-
----
-
-## 🔭 Current Focus
-- Building healthcare and data-driven apps using **Streamlit**, **Python**, and **APIs**
-- Exploring **Digital Health**, **AI in Healthcare**, and **Health Data Platforms**
-- Writing about **health tech trends and data solutions**
-
----
+I’m passionate about building products that solves problems with techonlogy
 
 ## 🚀 Projects & Tools
 - **Triage AI** – An AI-powered clinical triage assistant built with Streamlit and Mistral API
