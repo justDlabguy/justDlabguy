@@ -1,11 +1,11 @@
-# 👋 Hi, I’m Otito Ogene
+# 👋 Hi, I’m Otito 
 
- 💻 **Software Engineer & AI Automation Specialist**
+💻 **Software Engineer & AI Automation Specialist**
 
 ---
 
 ## 👨‍💻 What I Do  
-I help solve real-world problems by building robust, scalable backend systems and intelligent automation agents. If you need workflows streamlined, data cleaned & analysed, or repetitive tasks eliminated, I build it.
+I solve real-world problems by building backend systems that are scalable, resilient, and smart. If your product is slow, your infrastructure fragile, or your workflows manual, I build solutions that fix that—fast.
 
 ---
 
@@ -13,26 +13,28 @@ I help solve real-world problems by building robust, scalable backend systems an
 
 | Project | Description | Technologies | Impact |
 |---|---|---|---|
-| **Triage AI** | AI-powered clinical triage assistant for preliminary assessment of symptoms & routing of cases | Streamlit, Mistral API, Python | Reduced time to initial triage by ~60% in pilot usage |
-| **Automation Workflows** | Workflows automating scraping, summarization, and notifications for business tasks | Python, Make, APIs | Saved ~10+ hours/week of manual work for past clients |
-| **Health Data Pipelines** | Early-stage LIS / EHR integrations & health analytics dashboards | Python, FastAPI, PostgreSQL, Pandas | Built pipelines handling thousands of records/week; improved report accuracy |
+| **Triage AI** | AI-powered clinical triage assistant that helps route cases & assess symptoms | Streamlit, Mistral API, Python | Reduced time to initial triage by ~60% in pilot runs |
+| **Automation Workflows** | Scraping, summarization, notification & task automation for SMB & health-tech use cases | Python, Make, APIs | Saved 10+ hours/week of manual work for clients |
+| **Health Data Pipelines** | LIS/EHR integrations, dashboards for clinical analytics & reporting | Python, FastAPI, PostgreSQL, Pandas | Processed thousands of records/week; improved report correctness by 90% |
+| **Cloud & Container Infrastructure** | Docker-ized APIs deployed and maintained on AWS (EC2 / ECS / ECR) with CI/CD pipelines | Docker, AWS EC2 / ECS, AWS ECR, IAM, Monitoring (CloudWatch) | Deployed backend systems handling 5,000+ daily users, achieving ~99.9% uptime; cut deployment cycle time by ~80% |
 
 ---
 
 ## 🛠 Skills & Tools
 
-- **Backend & Systems**: Python, FastAPI, Django, REST APIs, Database Design (PostgreSQL, MySQL), NoSQL, Redis, Caching, Queues  
-- **Automation & Agents**: n8n / Make, Workflow Orchestration, Web Scraping, Data cleaning, NLP summarization, AI agent integrations  
-- **Health Tech**: LIS / EHR basics, Clinical data handling, Data privacy & security awareness
+- **Backend & Systems**: Python, FastAPI, Django; Database design (PostgreSQL, MySQL, NoSQL); Redis, Caching, Queues  
+- **Automation & Agents**: n8n / Make / Zapier; Workflow orchestration; Web scraping; NLP summarization; AI agent integrations  
+- **Cloud & DevOps**: Docker (multi-stage builds, containerization best practices); AWS services (EC2, ECS, ECR, IAM, CloudWatch); CI/CD pipelines; Monitoring & logging  
+- **Health Tech**: LIS / EHR basics, clinical data handling, data privacy & security awareness
 
 ---
 
 ## 📈 Metrics & Achievements
 
-- Served backend APIs for apps with **5,000+ daily users** handling **100,000+ requests/day**  
-- Uptime maintained at **99.9%+** for mission-critical systems  
-- Reduced manual processes (e.g. reports, reminders) by **40-80%** using automation workflows  
-- Built AI agents or chatbots handling **70-80%** of first-level queries in support / triage tasks
+- Backend APIs handling **100,000+ requests/day** with ~5,000+ daily users  
+- Uptime maintained at **99.9%+** for critical systems  
+- Reduced manual tasks (reports, reminders, data-entry) by **40-80%** for clients via automation  
+- Built AI using agents or chatbots that handle **70-80%** of first-level queries, cutting response time from ~12 hours down to <1 hour  
 
 ---
 
@@ -40,9 +42,8 @@ I help solve real-world problems by building robust, scalable backend systems an
 
 - **LinkedIn:** [linkedin.com/in/otitoogene](#)  
 - **Email:** otitodrichukwu@gmail.com  
-- **Personal Blog (Coming Soon):** Health Tech & Data Insights  
+- **Blog (Coming Soon):** Health Tech & Data Insights  
 
 ---
 
-> 🚧 **This profile is a work in progress!** I’m continuously exploring health tech solutions and building in public. Any feedback or collaboration ideas are super welcome.
-
+> 🚧 **You’re seeing this in progress.** I build in public and am always exploring new health tech solutions, cloud infrastructure, and smarter automations. Curious? Let’s chat or collaborate!
